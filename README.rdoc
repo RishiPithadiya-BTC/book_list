@@ -6,8 +6,4 @@ This is simple application for displaying list of book with CRUD operations with
 
 * Rails version : 4.1.1
 
-* Database creation : pending
-
-* Database initialization : pending
-
-* Deployment instructions : pending
+* Database : MySQL

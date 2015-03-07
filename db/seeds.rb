@@ -5,3 +5,4 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+20.times{ |i| Book.create(title: "Book-#{i+1}", auther: "Auther-#{i+1}", price: rand(100..200)) }
